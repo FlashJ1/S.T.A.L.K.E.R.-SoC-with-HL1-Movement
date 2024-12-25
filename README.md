@@ -1,2 +1,4 @@
-# S.T.A.L.K.E.R.-SoC-with-HL1-Movement
-Adding BHop for S.T.A.L.K.E.R: SoC
+# S.T.A.L.K.E.R.: SoC with HL1 Movement
+(Adding BHop for S.T.A.L.K.E.R: SoC)
+# UA:
+Даний мод являє собою добавлення розприжки для гри S.T.A.L.K.E.R.: SoC. Цей мод призначений для спідранерів та для тих, хто по фану захотів пограти. (*далі не знаю, що писати...*)
