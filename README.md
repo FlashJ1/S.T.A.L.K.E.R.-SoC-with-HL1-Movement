@@ -3,9 +3,9 @@
 
 ## Special Thanks:
 
-**[m4tt13](https://github.com/m4tt13)** for [Open Sourse x-ray 16 HL2 movement](https://github.com/m4tt13/xray-16)
-**[OpenXRay](https://github.com/OpenXRay)** for [Open Source Xray Engine](https://github.com/OpenXRay/xray-16)
-**[Hrusteckiy](https://github.com/Hrusteckiy)** for [Open Source S.T.A.L.K.E.R.: SoC](https://github.com/Hrusteckiy/07rc1)
+**[m4tt13](https://github.com/m4tt13)** for [Open Sourse x-ray 16 HL2 movement](https://github.com/m4tt13/xray-16)  
+**[OpenXRay](https://github.com/OpenXRay)** for [Open Source Xray Engine](https://github.com/OpenXRay/xray-16)  
+**[Hrusteckiy](https://github.com/Hrusteckiy)** for [Open Source S.T.A.L.K.E.R.: SoC](https://github.com/Hrusteckiy/07rc1)  
 
 # UA:
 Даний мод являє собою добавлення розприжки для гри S.T.A.L.K.E.R.: SoC. Цей мод призначений для спідранерів та для тих, хто по фану захотів пограти. Також хочу зауважити, що це поки що тестова версія, тобто без використання CollisionDamageInfo.
