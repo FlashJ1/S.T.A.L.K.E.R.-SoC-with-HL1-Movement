@@ -12,10 +12,12 @@
 # Встановлення мода
 1. Завантажені файли з папки bin переносимо в *Папка_з_грою*/bin
 2. Має бути присутня папка gamedata в папці з грою та fsgame.ltx - вони є у [Open Source S.T.A.L.K.E.R.: SoC](https://github.com/Hrusteckiy/07rc1)
-3. Ввести в параметри запуску "-steam" (без лапок)
+3. Видаліть mp_military_2.xdb0 (якщо вона є) у папці mods.
+4. Ввести в параметри запуску "-steam" (без лапок)
 # EN:
 This mod adds bunnyhopping to the game S.T.A.L.K.E.R.: SoC. It's designed for speedrunners and those who want to have fun playing around. Also I want notice, that it's still test version, I mean w/o using CollisionDamageInfo.
 # Mod Installation
-1. Move the downloaded files from the bin folder to *Game_Folder*/bin.
-2. Make sure the gamedata folder and fsgame.ltx are present in the game directory - they're available in [Open Source S.T.A.L.K.E.R.: SoC](https://github.com/Hrusteckiy/07rc1).
-3. Add "-steam" (without quotes) to the launch parameters.
+1. Move the downloaded files from the bin folder to *Game_Folder*/bin
+2. Make sure the gamedata folder and fsgame.ltx are present in the game directory - they're available in [Open Source S.T.A.L.K.E.R.: SoC](https://github.com/Hrusteckiy/07rc1)
+3. Delete mp_military_2.xdb0 (if there is ) in mods folder
+4. Add "-steam" (without quotes) to the launch parameters
